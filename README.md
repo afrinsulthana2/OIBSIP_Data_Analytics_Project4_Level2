@@ -88,21 +88,37 @@ The dataset includes features such as:
 
 ## How to Run
 
+Follow these steps to install dependencies and launch the Streamlit dashboard:
+
 ### Step 1: Install Dependencies
+
+Make sure you have Python installed, then install all required packages:
 
 ```bash
 pip install -r requirements.txt
+````
 
-###Step 2: Start the Streamlit App
-streamlit run app.py
+### Step 2: Start the Streamlit App
 
-###Step 3: Open in Browser
-The app will open automatically in your browser at:
-
-http://localhost:8501/
-
-
-
+Run the following command to start the app:
 
 ```bash
+streamlit run app.py
+```
+
+### Step 3: Open in Browser
+
+After running the above command, the app will open automatically in your default web browser at:
+
+```
+http://localhost:8501/
+```
+
+If it doesn’t open automatically, simply copy the above URL and paste it into your browser’s address bar.
+
+```
+
+This is a **single Markdown block**—just copy and paste it directly into your `README.md`. Let me know if you need any adjustments!
+```
+
 pip install -r requirements.txt
