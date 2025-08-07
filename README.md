@@ -116,9 +116,4 @@ http://localhost:8501/
 
 If it doesn’t open automatically, simply copy the above URL and paste it into your browser’s address bar.
 
-```
 
-This is a **single Markdown block**—just copy and paste it directly into your `README.md`. Let me know if you need any adjustments!
-```
-
-pip install -r requirements.txt
